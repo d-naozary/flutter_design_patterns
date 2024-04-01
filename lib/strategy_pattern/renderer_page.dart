@@ -21,7 +21,9 @@ class _RendererPageState extends State<RendererPage> {
       ),
       body: SingleChildScrollView(
         child: Column(
-          children: [],
+          children: [
+            Container(),
+          ],
         ),
       ),
     );
