@@ -41,3 +41,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+/factory_pattern/exercises/
+lib/singelton_pattern/exercise_1.dart
+lib/singelton_pattern/exercise_2.dart
+lib\builder_pattern/exercise.dart
